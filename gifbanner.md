@@ -23,7 +23,11 @@
   </a>
 </p>
 
+<div align="center">
+
 # Monitor and Manage Google Cloud Resources: Challenge Lab || [ARC101](https://www.cloudskillsboost.google/focuses/60441?parent=catalog) ||
+
+</div>
 
 ## Solution 
 
