@@ -43,9 +43,10 @@ sudo chmod +x arc101.sh
 
 ./arc101.sh
 ```
+<div align="center">
 
 ### Congratulations 🎉 for completing the Lab !
-
+</div>
 
 
 </div>
